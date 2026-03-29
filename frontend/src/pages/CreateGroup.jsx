@@ -1,7 +1,7 @@
 import { useState } from "react";
 import API from "../services/api"; // ✅ FIX
 import { useNavigate } from "react-router-dom";
-import "../styles/group.css";
+import "../styles/creategroup.css";
 
 function CreateGroup(){
 
